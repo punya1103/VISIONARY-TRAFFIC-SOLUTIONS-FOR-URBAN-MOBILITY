@@ -101,6 +101,7 @@ All data accessible via web dashboard or mobile app for real-time monitoring and
 
 📂 Directory Structure
 text
+
 visionary-traffic-solutions/
 ├── src/
 │   ├── embedded_code/
@@ -112,12 +113,14 @@ visionary-traffic-solutions/
 ├── requirements.txt
 ├── README.md
 └── ...
+
 📝 Database Tables (Sample)
 Table Name	Purpose
 traffic_data	Real-time traffic density & signal logs
 emergency_events	Emergency vehicle & incident tracking
 street_lights	Energy consumption & brightness logs
 users	Admin/web dashboard accounts
+
 👩‍💻 Authors
 Developed by students of Artificial Intelligence & Machine Learning, East West Institute of Technology, under the guidance of Dr. Usha M (2024–2025).
 
