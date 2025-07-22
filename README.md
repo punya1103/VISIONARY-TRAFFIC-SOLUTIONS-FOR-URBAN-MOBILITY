@@ -1,5 +1,6 @@
 # VISIONARY-TRAFFIC-SOLUTIONS-FOR-URBAN-MOBILITY
 A smart traffic management and emergency response system leveraging AI, IoT, and embedded technologies. This solution dynamically controls traffic signals, prioritizes emergency vehicles, detects incidents, and conserves energy through intelligent street lighting. Designed with scalability, urban mobility, and public safety in mind.
+
 🚦 Features
 Dynamic Signal Control: Traffic lights adjust in real-time based on vehicle density using IR sensors and AI-powered image processing.
 
